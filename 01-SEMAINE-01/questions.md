@@ -1,6 +1,6 @@
 # Semaine 1 — Exercices
 
-Ces exercices se font en deux temps : d'abord une mise en pratique de Git/GitHub, puis des exercices de statistique descriptive sur les deux jeux de données du dossier `datasets/`.
+Ces exercices se font en deux temps : d'abord une mise en pratique de Git/GitHub, puis des exercices de statistique descriptive sur les deux jeux de données du dossier `DATASETS/`.
 
 ---
 
@@ -8,7 +8,7 @@ Ces exercices se font en deux temps : d'abord une mise en pratique de Git/GitHub
 
 À faire directement dans votre terminal, sur votre branche personnelle.
 
-1. Clonez le dépôt `sda-academy-data-analyst` s'il ne l'est pas déjà.
+1. Clonez le dépôt  s'il ne l'est pas déjà.
 2. Créez une branche personnelle nommée avec votre prénom (ex. `git checkout -b patrick`).
 3. Dans cette branche, créez un fichier `reponses.md` à la racine de `semaine-01/` et copiez-y les énoncés de la Partie B ci-dessous.
 4. Faites un premier commit avec un message clair (ex. `"Semaine 1 - creation fichier reponses"`).
