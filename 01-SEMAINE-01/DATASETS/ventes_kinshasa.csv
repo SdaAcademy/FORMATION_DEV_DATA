@@ -1,0 +1,61 @@
+id_vente,date,produit,categorie,commune,quantite,prix_unitaire_cdf
+1,2026-09-01,Huile de palme (5L),Alimentation,Kinshasa,4,16400
+2,2026-09-01,Riz (sac 25kg),Alimentation,Barumbu,9,42600
+3,2026-09-01,Farine de maïs (5kg),Alimentation,Kalamu,2,9400
+4,2026-09-01,Riz (sac 25kg),Alimentation,Kinshasa,2,48600
+5,2026-09-01,Pagne wax (6 yards),Habillement,Ngaliema,9,37900
+6,2026-09-01,Stylo bic (boite),Fournitures,Masina,4,4000
+7,2026-09-02,Farine de maïs (5kg),Alimentation,Masina,7,8400
+8,2026-09-02,Huile de palme (5L),Alimentation,Bandalungwa,6,17700
+9,2026-09-02,Chargeur telephone,Électronique,Kalamu,2,7300
+10,2026-09-02,Charbon de bois (sac),Energie,Ngaba,2,20900
+11,2026-09-02,Farine de maïs (5kg),Alimentation,Kintambo,8,8400
+12,2026-09-02,Sucre (1kg),Alimentation,Limete,8,3300
+13,2026-09-03,Chargeur telephone,Électronique,Kintambo,2,7300
+14,2026-09-03,Savon de menage,Hygiene,Kalamu,2,2700
+15,2026-09-03,Farine de maïs (5kg),Alimentation,Lemba,7,9000
+16,2026-09-04,Téléphone entrée de gamme,Électronique,Kalamu,3,92700
+17,2026-09-04,Téléphone entrée de gamme,Électronique,Limete,8,90900
+18,2026-09-04,Charbon de bois (sac),Energie,Kintambo,8,20500
+19,2026-09-04,Chaussures homme,Habillement,Kinshasa,1,25400
+20,2026-09-05,Charbon de bois (sac),Energie,Ngaba,1,20000
+21,2026-09-05,Chargeur telephone,Électronique,Kintambo,9,7500
+22,2026-09-05,Savon de menage,Hygiene,Ngaliema,3,2300
+23,2026-09-06,Stylo bic (boite),Fournitures,Kinshasa,7,3700
+24,2026-09-06,Cahier 200 pages,Fournitures,Kinshasa,10,1500
+25,2026-09-06,Cahier 200 pages,Fournitures,Ngaliema,7,1500
+26,2026-09-07,Chaussures homme,Habillement,Kinshasa,6,23700
+27,2026-09-07,Téléphone entrée de gamme,Électronique,Lemba,5,94200
+28,2026-09-07,Huile de palme (5L),Alimentation,Kalamu,8,18400
+29,2026-09-07,Cahier 200 pages,Fournitures,Ngaliema,2,1500
+30,2026-09-07,Savon de menage,Hygiene,Limete,3,2700
+31,2026-09-08,Farine de maïs (5kg),Alimentation,Ngaba,5,8400
+32,2026-09-08,Savon de menage,Hygiene,Limete,10,2700
+33,2026-09-08,Stylo bic (boite),Fournitures,Kintambo,1,4100
+34,2026-09-09,Stylo bic (boite),Fournitures,Ngaliema,3,3800
+35,2026-09-09,Huile de palme (5L),Alimentation,Kintambo,3,17200
+36,2026-09-09,Cahier 200 pages,Fournitures,Kinshasa,6,1400
+37,2026-09-09,Stylo bic (boite),Fournitures,Limete,9,4000
+38,2026-09-09,Riz (sac 25kg),Alimentation,Ngaliema,7,48000
+39,2026-09-10,Riz (sac 25kg),Alimentation,Ngaba,3,46200
+40,2026-09-10,Chaussures homme,Habillement,Lemba,8,25300
+41,2026-09-10,Téléphone entrée de gamme,Électronique,Kintambo,1,87600
+42,2026-09-11,Savon de menage,Hygiene,Kalamu,6,2500
+43,2026-09-11,Sucre (1kg),Alimentation,Bandalungwa,3,3200
+44,2026-09-11,Pagne wax (6 yards),Habillement,Kalamu,6,37700
+45,2026-09-11,Farine de maïs (5kg),Alimentation,Ngaliema,6,9500
+46,2026-09-12,Cahier 200 pages,Fournitures,Lemba,4,1600
+47,2026-09-12,Sucre (1kg),Alimentation,Bandalungwa,1,3300
+48,2026-09-12,Pagne wax (6 yards),Habillement,Bandalungwa,4,38100
+49,2026-09-12,Charbon de bois (sac),Energie,Ngaliema,7,23600
+50,2026-09-12,Chargeur telephone,Électronique,Kinshasa,4,8500
+51,2026-09-12,Chargeur telephone,Électronique,Ngaba,5,8500
+52,2026-09-13,Farine de maïs (5kg),Alimentation,Kalamu,4,8800
+53,2026-09-13,Chaussures homme,Habillement,Ngaliema,5,24300
+54,2026-09-13,Savon de menage,Hygiene,Bandalungwa,9,2400
+55,2026-09-13,Riz (sac 25kg),Alimentation,Ngaliema,5,42100
+56,2026-09-14,Riz (sac 25kg),Alimentation,Ngaliema,10,44400
+57,2026-09-14,Charbon de bois (sac),Energie,Ngaba,7,22500
+58,2026-09-14,Savon de menage,Hygiene,Ngaliema,7,2700
+59,2026-09-14,Farine de maïs (5kg),Alimentation,Limete,1,9400
+60,2026-09-14,Riz (sac 25kg),Alimentation,Kintambo,9,46700
