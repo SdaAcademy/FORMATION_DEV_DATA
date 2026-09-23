@@ -134,10 +134,9 @@ Chaque apprenant doit produire une première analyse du dataset `clients_satisfa
 
 | Fichier | Description |
 |---|---|
-| `syllabus-git.md` | Mini-syllabus des commandes Git essentielles |
-| `syllabus-github.md` | Mini-syllabus de prise en main de GitHub |
-| `datasets/notes_etudiants.csv` | Jeu de données pour les exercices de statistique (30 étudiants) |
-| `datasets/ventes_kinshasa.csv` | Jeu de données pour les exercices de statistique et une première exploration de données tabulaires |
+| `support-git-github.md` | Mini-syllabus des commandes Git essentielles et prise en main de GitHub |
+| `DATASETS/notes_etudiants.csv` | Jeu de données pour les exercices de statistique (30 étudiants) |
+| `DATASETS/ventes_kinshasa.csv` | Jeu de données pour les exercices de statistique et une première exploration de données tabulaires |
 | `questions.md` | Exercices Git (pratique) + exercices de statistique sur les deux datasets |
 
 ### Comment rendre le travail
